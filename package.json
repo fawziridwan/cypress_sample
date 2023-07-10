@@ -12,5 +12,12 @@
   "devDependencies": {
     "cypress": "^12.17.0",
     "cypress-cucumber-preprocessor": "^4.3.1"
+  },
+  "dependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^18.0.1"
+  },
+  "cypress-cucumber-preprocessor": {
+    "nonGlobalStepDefinitions": true,
+    "step_definitions": "cypress/e2e/step_definitions"
   }
 }
