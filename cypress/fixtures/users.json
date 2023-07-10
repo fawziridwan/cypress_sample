@@ -1,0 +1,10 @@
+{
+  "valid": {
+    "username": "Niken_Arra",
+    "password": "d0n7STOPmen@w"
+  },
+  "invalid": {
+    "username": "Admin",
+    "password": "Admin"
+  }
+}
